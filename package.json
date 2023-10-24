@@ -1,0 +1,21 @@
+{
+  "name": "hotline---icons",
+  "displayName": "hotline - icons",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hotline - icons",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hotline - icons-color-theme.json"
+      }
+    ]
+  }
+}
