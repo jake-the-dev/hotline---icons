@@ -7,9 +7,10 @@
 <stop offset="0.848958" stop-color="#7F787F"/>
 <stop offset="0.982609" stop-color="#4B454B"/>
 </linearGradient>
-<linearGradient id="paint1_linear_106_1737" x1="40.7136" y1="29.2954" x2="99.0693" y2="69.7193" gradientUnits="userSpaceOnUse">
-<stop stop-color="#5FC7FF"/>
-<stop offset="1" stop-color="#2731F7"/>
+<linearGradient id="paint1_linear_106_1737" x1="40.7136" y1="29.5614" x2="100.56" y2="59.8641" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="white"/>
+<stop offset="0.510417" stop-color="#45A8E1"/>
+<stop offset="1" stop-color="#298FD4"/>
 </linearGradient>
 </defs>
 </svg>

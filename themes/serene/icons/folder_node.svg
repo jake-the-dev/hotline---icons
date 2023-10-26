@@ -9,13 +9,15 @@
 <path d="M27 43.4616V66.5379L50.0768 80L73.1537 66.5389V43.4621L50.0768 30L27 43.4616Z" stroke="url(#paint1_linear_106_2710)" stroke-width="4.65962" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_106_2710" x1="2.5" y1="12.1329" x2="82.7972" y2="101.132" gradientUnits="userSpaceOnUse">
-<stop stop-color="#5FC7FF"/>
-<stop offset="1" stop-color="#2731F7"/>
+<linearGradient id="paint0_linear_106_2710" x1="2.5" y1="12.4773" x2="96.5603" y2="88.6827" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="white"/>
+<stop offset="0.510417" stop-color="#45A8E1"/>
+<stop offset="1" stop-color="#298FD4"/>
 </linearGradient>
-<linearGradient id="paint1_linear_106_2710" x1="27" y1="30" x2="79.2055" y2="72.5802" gradientUnits="userSpaceOnUse">
-<stop stop-color="#5FC7FF"/>
-<stop offset="1" stop-color="#2731F7"/>
+<linearGradient id="paint1_linear_106_2710" x1="27" y1="30.2274" x2="82.8431" y2="63.5205" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="white"/>
+<stop offset="0.510417" stop-color="#45A8E1"/>
+<stop offset="1" stop-color="#298FD4"/>
 </linearGradient>
 <clipPath id="clip0_106_2710">
 <rect width="100" height="100" fill="white"/>

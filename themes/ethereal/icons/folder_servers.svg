@@ -1,32 +1,32 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_106_951)">
-<path d="M48.6879 20.1843L49.071 22.2226H51.1449H87.6149C93.0715 22.2226 97.5 26.647 97.5 32.1077V77.9821C97.5 83.4379 93.0708 87.8672 87.6149 87.8672H12.3851C6.92684 87.8672 2.5 83.4383 2.5 77.9821V42.2029V32.1077V22.018C2.5 16.557 6.92612 12.1329 12.3851 12.1329H38.991C43.815 12.1329 47.8259 15.5971 48.6879 20.1843Z" stroke="url(#paint0_linear_106_951)" stroke-width="5"/>
-<path d="M73.6606 32H25.3394C23.4951 32 22 33.5244 22 35.4048V52.5952C22 54.4756 23.4951 56 25.3394 56H73.6606C75.5049 56 77 54.4756 77 52.5952V35.4048C77 33.5244 75.5049 32 73.6606 32Z" stroke="url(#paint1_linear_106_951)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M73.6606 56H25.3394C23.4951 56 22 57.4609 22 59.263V75.737C22 77.5391 23.4951 79 25.3394 79H73.6606C75.5049 79 77 77.5391 77 75.737V59.263C77 57.4609 75.5049 56 73.6606 56Z" stroke="url(#paint2_linear_106_951)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M34 43H34.1114M46.3339 43H63M34 68H34.1114M46.3339 68H63" stroke="url(#paint3_linear_106_951)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_328_2890)">
+<path d="M48.6879 20.1843L49.071 22.2225H51.1449H87.6149C93.0715 22.2225 97.5 26.647 97.5 32.1076V77.982C97.5 83.4379 93.0708 87.8671 87.6149 87.8671H12.3851C6.92684 87.8671 2.5 83.4382 2.5 77.982V42.2029V32.1076V22.0179C2.5 16.5569 6.92612 12.1328 12.3851 12.1328H38.991C43.815 12.1328 47.8259 15.597 48.6879 20.1843Z" stroke="url(#paint0_linear_328_2890)" stroke-width="5"/>
+<path d="M73.6606 32H25.3394C23.4951 32 22 33.5244 22 35.4048V52.5952C22 54.4756 23.4951 56 25.3394 56H73.6606C75.5049 56 77 54.4756 77 52.5952V35.4048C77 33.5244 75.5049 32 73.6606 32Z" stroke="url(#paint1_linear_328_2890)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M73.6606 56H25.3394C23.4951 56 22 57.4609 22 59.263V75.737C22 77.5391 23.4951 79 25.3394 79H73.6606C75.5049 79 77 77.5391 77 75.737V59.263C77 57.4609 75.5049 56 73.6606 56Z" stroke="url(#paint2_linear_328_2890)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34 43H34.1114M46.3339 43H63M34 68H34.1114M46.3339 68H63" stroke="url(#paint3_linear_328_2890)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_106_951" x1="0.0217031" y1="9.91575" x2="100.228" y2="90.0334" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_328_2890" x1="0.0217031" y1="9.91569" x2="100.228" y2="90.0334" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="0.848958" stop-color="#7F787F"/>
 <stop offset="0.982609" stop-color="#4B454B"/>
 </linearGradient>
-<linearGradient id="paint1_linear_106_951" x1="22.0119" y1="32.0841" x2="50.349" y2="74.0019" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_328_2890" x1="22.0119" y1="32.0841" x2="50.349" y2="74.0019" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="0.848958" stop-color="#7F787F"/>
 <stop offset="0.982609" stop-color="#4B454B"/>
 </linearGradient>
-<linearGradient id="paint2_linear_106_951" x1="22.0119" y1="56.0806" x2="48.7203" y2="97.307" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint2_linear_328_2890" x1="22.0119" y1="56.0806" x2="48.7203" y2="97.307" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="0.848958" stop-color="#7F787F"/>
 <stop offset="0.982609" stop-color="#4B454B"/>
 </linearGradient>
-<linearGradient id="paint3_linear_106_951" x1="34.0063" y1="43.0876" x2="64.5293" y2="65.9424" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint3_linear_328_2890" x1="34.0063" y1="43.0876" x2="64.5293" y2="65.9424" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="0.848958" stop-color="#7F787F"/>
 <stop offset="0.982609" stop-color="#4B454B"/>
 </linearGradient>
-<clipPath id="clip0_106_951">
+<clipPath id="clip0_328_2890">
 <rect width="100" height="100" fill="white"/>
 </clipPath>
 </defs>

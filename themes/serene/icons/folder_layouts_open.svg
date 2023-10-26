@@ -9,9 +9,10 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M30.3871 37.2616C30.3871 36.2263 31.2263 35.3871 32.2616 35.3871H67.7384C68.7737 35.3871 69.6129 36.2263 69.6129 37.2616V44.2051H30.3871V37.2616ZM30.3871 50.5922V72.7384C30.3871 73.7737 31.2263 74.6129 32.2616 74.6129H39.2039V50.5922H30.3871ZM45.591 74.6129H67.7384C68.7737 74.6129 69.6129 73.7737 69.6129 72.7384V50.5922H45.591V74.6129ZM32.2616 29C27.6988 29 24 32.6988 24 37.2616V72.7384C24 77.3012 27.6988 81 32.2616 81H67.7384C72.3012 81 76 77.3012 76 72.7384V37.2616C76 32.6988 72.3012 29 67.7384 29H32.2616Z" fill="url(#paint1_linear_106_2703)"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_106_2703" x1="2.5" y1="12.1329" x2="82.7971" y2="101.132" gradientUnits="userSpaceOnUse">
-<stop stop-color="#5FC7FF"/>
-<stop offset="1" stop-color="#2731F7"/>
+<linearGradient id="paint0_linear_106_2703" x1="2.5" y1="12.4773" x2="96.5602" y2="88.6827" gradientUnits="userSpaceOnUse">
+<stop offset="0.0104167" stop-color="white"/>
+<stop offset="0.510417" stop-color="#45A8E1"/>
+<stop offset="1" stop-color="#298FD4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_106_2703" x1="24.0113" y1="29.1822" x2="84.3054" y2="68.1017" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>

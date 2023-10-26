@@ -1,20 +1,86 @@
 {
+  "publisher": "jake-the-dev",
   "name": "hotline---icons",
-  "displayName": "hotline - icons",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.83.0"
+  "displayName": "Hotline - Icons",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A collection of bright lined icons for VS Code",
+  "author": {
+    "name": "Jake Webster",
+    "email": "jakepeterwebster@gmail.com",
+    "url": "https://github.com/jake-the-dev"
   },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jake-the-dev/hotline---icons"
+  },
+  "bugs": {
+    "url": "https://github.com/jake-the-dev/hotline---icons/issues"
+  },
+  "keywords": [
+    "neon",
+    "dark",
+    "theme",
+    "icon",
+    "bright",
+    "lines",
+    "vscode",
+    "vscode-theme",
+    "vscode-icons",
+    "vscode-extension"
+  ],
   "categories": [
     "Themes"
   ],
+  "icon": "logo.png",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "vscode": "^1.83.0"
+  },
   "contributes": {
-    "themes": [
+    "iconThemes": [
       {
-        "label": "hotline - icons",
-        "uiTheme": "vs-dark",
-        "path": "./themes/hotline - icons-color-theme.json"
+        "id": "hotline-wired",
+        "label": "Hotline: Wired",
+        "path": "themes/wired/theme.json"
+      },
+      {
+        "id": "hotline-wired-alt",
+        "label": "Hotline: Wired Alternative",
+        "path": "themes/wired_alt/theme.json"
+      },
+      {
+        "id": "hotline-neon-noir",
+        "label": "Hotline: Neon Noir",
+        "path": "themes/neonnoir/theme.json"
+      },
+      {
+        "id": "hotline-technicolor",
+        "label": "Hotline: Technicolor",
+        "path": "themes/technicolor/theme.json"
+      },
+      {
+        "id": "hotline-serene",
+        "label": "Hotline: Serene",
+        "path": "themes/serene/theme.json"
+      },
+      {
+        "id": "hotline-radiant",
+        "label": "Hotline: Radiant",
+        "path": "themes/radiant/theme.json"
+      },
+      {
+        "id": "neon-ethereal",
+        "label": "Hotline: Ethereal",
+        "path": "themes/ethereal/theme.json"
+      },
+      {
+        "id": "neon-translucent",
+        "label": "Hotline: Translucent",
+        "path": "themes/translucent/theme.json"
       }
     ]
   }
