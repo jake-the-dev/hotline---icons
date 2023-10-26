@@ -1,16 +1,35 @@
-# hotline---icons README
+<p align="center">
+  <img src="assets/hotline_logo.png" width="100" alt="Logo"/><br/>
+</p>
 
-## Working with Markdown
+<h1 align="center">Hotline Icons</h1><br/>
+<p align="center">Several outline only icons sets for <a href="https://code.visualstudio.com/">VSCode</a></p><br/>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![group_preview](assets/group_preview.png)
 
-## For more information
+## Previews
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<details>
+<summary>🩷💙💛 Wired</summary>
+  <img src="assets/wired_set.png" alt="Wired icon set"/>
+</details>
+<details>
+<summary>🌈 Technicolor</summary>
+  <img src="assets/techni_set.png" alt="Wired icon set"/>
+</details>
+<details>
+<summary>💜💙 Neon Noir</summary>
+  <img src="assets/neon_noir_set.png" alt="Wired icon set"/>
+</details>
+<details>
+<summary>🩵🌸 Serene</summary>
+  <img src="assets/serene_set.png" alt="Wired icon set"/>
+</details>
 
-**Enjoy!**
+## Usage
+
+1. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or <kbd>CMD</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
+2. Type in `> File Icon Theme` and press enter
+3. Select your flavor and press enter
+4. Enjoy!
