@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="assets/hotline_logo.png" width="100" alt="Logo"/><br/>
-</p>
-
-<h1 align="center">Hotline Icons</h1><br/>
-<p align="center">Several outline only icons sets for <a href="https://code.visualstudio.com/">VSCode</a></p><br/>
-
+> They're icons - I'll let the pictures do the talking.
 
 ![group_preview](assets/group_preview.png)
 
@@ -14,6 +8,7 @@
 <summary>🩷💙💛 Wired</summary>
   <img src="assets/wired_set.png" alt="Wired icon set"/>
 </details>
+With matching <a href="https://marketplace.visualstudio.com/items?itemName=jake-the-dev.hotline---theme">Hotline Theme</a>.
 <details>
 <summary>🌈 Technicolor</summary>
   <img src="assets/techni_set.png" alt="Wired icon set"/>
@@ -33,3 +28,23 @@
 2. Type in `> File Icon Theme` and press enter
 3. Select your flavor and press enter
 4. Enjoy!
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+  💛🩷🩵🖤
+</div>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=jake-the-dev.hotline---themes">Hotline Themes</a> and <a href="https://marketplace.visualstudio.com/items?itemName=jake-the-dev.hotline---icons">Hotline Icons</a> are maintained by:
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/12745493?v=4" alt="jake-the-dev" width="50" height="50">
+  <br>
+  <a href="https://github.com/jake-the-dev">jake-the-dev</a>
+</p>
+
+<p align="center">
+  💛🩷🩵🖤
+</p>
